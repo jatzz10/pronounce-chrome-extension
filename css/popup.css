@@ -1,0 +1,21 @@
+h3 {
+    color: grey;
+}
+
+.button {
+    background-color: white; 
+    border: none;
+    color: grey;
+    padding: 15px 45px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #e7e7e7;
+    color: black;
+}

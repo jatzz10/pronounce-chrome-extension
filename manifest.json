@@ -1,0 +1,23 @@
+{
+	"name": "Pronounce",
+	"manifest_version": 2,
+	"version": "1.0",
+	"description": "A chrome extension for knowing the pronounciation of a word.",
+
+	"icons": {
+		"128": "/icons/image128.png",
+		"48": "/icons/image48.png",
+		"16": "/icons/image16.png"
+	},
+
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+
+	"background": {
+		"scripts": ["/scripts/event_page.js"],
+		"persistent": false
+	},
+
+	"permissions": ["tts", "contextMenus"]
+}
