@@ -1,4 +1,4 @@
-var menuItem = {
+let menuItem = {
 	"id": "pronounce",
 	"title": "Pronounce",
 	"contexts": ["selection"]
