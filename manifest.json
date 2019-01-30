@@ -2,7 +2,7 @@
 	"name": "Pronounce",
 	"manifest_version": 2,
 	"version": "1.0",
-	"description": "A chrome extension for knowing the pronounciation of a word.",
+	"description": "An extension for providing computer generated audio for selected text.",
 
 	"icons": {
 		"128": "/icons/image128.png",
