@@ -1,3 +1,5 @@
+// Context Menu functionality
+
 let menuItem = {
 	"id": "pronounce",
 	"title": "Pronounce",

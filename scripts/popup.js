@@ -1,3 +1,5 @@
+// Pop-up menu functionality
+
 $(function() {
 	$('#btn').click(function() {
 		let content = $('#content').val();
