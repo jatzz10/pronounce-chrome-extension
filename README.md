@@ -21,5 +21,3 @@ This extension can be used in two ways(for now):
     - Either copy any text and paste it in the text field OR type anything you like.
     - Click on the "Pronounce" button.
     
-# License
-MIT © Jatin Sharma
